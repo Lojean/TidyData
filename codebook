@@ -4,6 +4,11 @@
 Training and test subject data sets are combined and only mean and standard deviation measurements are retained in the final
 data set. 
 
+1. For both the training and data sets extract the subject activity and combine the data. 
+2. Extract the variables for the mean and standard deviation only from the 'features.txt' file to use as column headings for 
+the data
+3. Compute the average value of all mean and standard deviation statistics and save in a separate file. 
+
 Activities
 
 1 WALKING
