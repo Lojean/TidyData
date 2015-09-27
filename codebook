@@ -1,0 +1,21 @@
+# Tidy Data Project Code Book
+# Data sets for 6 activities are provides that measure body forces resulting from 30 participants doing 6 activities
+
+Training and test subject data sets are combined and only mean and standard deviation measurements are retained in the final
+data set. 
+
+Activities
+
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
+
+Measured Features
+
+Timed measures variables are prefixed with a ’t’ 
+Body force measure variables are prefixed with a ‘f’
+
+Output: mean and standard deviation for 81 variables
